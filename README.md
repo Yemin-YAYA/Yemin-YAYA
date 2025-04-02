@@ -37,4 +37,4 @@
 
 ---
 
-> *“Je teste, j’apprends, je progresse chaque jour.”*
+> **“Je teste, j’apprends, je progresse chaque jour.”**
