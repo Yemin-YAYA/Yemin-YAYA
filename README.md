@@ -1,6 +1,7 @@
 # 👋 Bonjour, je suis Yemin YAYA
 
 🎯 Développeur web et web mobile 
+
 💡 Je suis passionné par le code, curieux, rigoureux, et toujours en quête de progression.
 
 ---
