@@ -38,3 +38,6 @@
 ---
 
 > **“Je teste, j’apprends, je progresse chaque jour.”**
+
+> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yemin-yaya-08947a103)
+
