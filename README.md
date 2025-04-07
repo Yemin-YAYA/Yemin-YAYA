@@ -1,4 +1,4 @@
-# ![Développeur devant un ordinateur](https://source.unsplash.com/featured/?developer,computer) Bonjour, je suis Yemin YAYA
+# 👨‍💻 Bonjour, je suis Yemin YAYA
 
 🎯 Développeur web et web mobile 
 
