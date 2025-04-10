@@ -19,7 +19,7 @@
 
 
 
-### 🛠️ Back-End Outils & Environnements
+### 🛠️ Back-End & Outils  
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
