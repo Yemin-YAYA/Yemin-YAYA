@@ -36,6 +36,7 @@
 - 🔄 **Adaptabilité** & autonomie  
 - 💪 **Résilience** face aux défis  
 - ✅ **Fiabilité** et respect des engagements
+- 🔍 Curiosité et soif d'apprendre
 
 ---
 
