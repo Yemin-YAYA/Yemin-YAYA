@@ -1,6 +1,6 @@
 # 👨‍💻 Bonjour, je suis Yemin YAYA
 
-🎯 Passionné par le développement et guidé par la curiosité, je conçois des solutions web modernes et efficaces.
+🔥 Passionné par le développement et guidé par la curiosité, je conçois des solutions web modernes et efficaces.
 
 ---
 
