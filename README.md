@@ -5,6 +5,7 @@
 🔥 Passionné par le développement et guidé par la curiosité, je conçois des solutions web modernes et efficaces.
 
 ---
+<br><br>
 
 
 ## 🎯 Ma mission:
@@ -15,6 +16,7 @@ J’aime comprendre, concevoir et améliorer — toujours avec la volonté de cr
 Curieux et motivé, je m’efforce chaque jour d’**apprendre davantage, d’explorer de nouvelles technologies** et d’améliorer ma façon de créer.
 
 ---
+<br><br>
 
 
 ## 🧰 Compétences Techniques
@@ -38,6 +40,7 @@ Curieux et motivé, je m’efforce chaque jour d’**apprendre davantage, d’ex
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
+<br><br>
 
 
 ## 🤝 Compétences Transversales
@@ -51,6 +54,7 @@ Curieux et motivé, je m’efforce chaque jour d’**apprendre davantage, d’ex
 - 🔍 Curiosité et soif d'apprendre
 
 ---
+<br><br>
 
 
 ### 📨 Me Contacter
