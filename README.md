@@ -1,8 +1,11 @@
 # 👨‍💻 Bonjour, je suis Yemin YAYA
 
+
+
 🔥 Passionné par le développement et guidé par la curiosité, je conçois des solutions web modernes et efficaces.
 
 ---
+
 
 ## 🎯 Ma mission:
 
@@ -12,6 +15,7 @@ J’aime comprendre, concevoir et améliorer — toujours avec la volonté de cr
 Curieux et motivé, je m’efforce chaque jour d’**apprendre davantage, d’explorer de nouvelles technologies** et d’améliorer ma façon de créer.
 
 ---
+
 
 ## 🧰 Compétences Techniques
 
@@ -35,6 +39,7 @@ Curieux et motivé, je m’efforce chaque jour d’**apprendre davantage, d’ex
 
 ---
 
+
 ## 🤝 Compétences Transversales
 
 - 🧠 **Analyse** & esprit critique  
@@ -46,6 +51,7 @@ Curieux et motivé, je m’efforce chaque jour d’**apprendre davantage, d’ex
 - 🔍 Curiosité et soif d'apprendre
 
 ---
+
 
 ### 📨 Me Contacter
 
