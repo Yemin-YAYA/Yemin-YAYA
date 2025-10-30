@@ -1,8 +1,15 @@
 # 👨‍💻 Bonjour, je suis Yemin YAYA
 
-🎯 Développeur web et web mobile 
+🎯 Passionné par le développement et guidé par la curiosité, je conçois des solutions web modernes et efficaces.
 
-💡 Je suis passionné par le code, curieux, rigoureux, et toujours en quête de progression.
+---
+
+## 🎯 Ma mission:
+
+Allier technique et créativité pour donner vie à des projets web utiles, clairs et performants.  
+J’aime comprendre, concevoir et améliorer — toujours avec la volonté de créer des expériences simples, élégantes et efficaces.  
+
+Curieux et motivé, je m’efforce chaque jour d’**apprendre davantage, d’explorer de nouvelles technologies** et d’améliorer ma façon de créer.
 
 ---
 
