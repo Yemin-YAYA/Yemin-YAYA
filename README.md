@@ -1,22 +1,21 @@
 # 👨‍💻 Bonjour, je suis Yemin YAYA
 
-
+<br>
 
 🔥 Passionné par le développement et guidé par la curiosité, je conçois des solutions web modernes et efficaces.
+<br>
 
 ---
-<br><br>
-
-
+<br>
 ## 🎯 Ma mission:
 
 Allier technique et créativité pour donner vie à des projets web utiles, clairs et performants.  
 J’aime comprendre, concevoir et améliorer — toujours avec la volonté de créer des expériences simples, élégantes et efficaces.  
 
 Curieux et motivé, je m’efforce chaque jour d’**apprendre davantage, d’explorer de nouvelles technologies** et d’améliorer ma façon de créer.
-
+<br>
 ---
-<br><br>
+<br>
 
 
 ## 🧰 Compétences Techniques
@@ -38,9 +37,9 @@ Curieux et motivé, je m’efforce chaque jour d’**apprendre davantage, d’ex
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
+<br>
 ---
-<br><br>
+<br>
 
 
 ## 🤝 Compétences Transversales
@@ -52,9 +51,9 @@ Curieux et motivé, je m’efforce chaque jour d’**apprendre davantage, d’ex
 - 💪 **Résilience** face aux défis  
 - ✅ **Fiabilité** et respect des engagements
 - 🔍 Curiosité et soif d'apprendre
-
+<br>
 ---
-<br><br>
+<br>
 
 
 ### 📨 Me Contacter
@@ -62,9 +61,9 @@ Curieux et motivé, je m’efforce chaque jour d’**apprendre davantage, d’ex
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:votre.email@example.com)
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yemin-yaya-08947a103)
-
+<br>
   ---
-
+<br>
 🔗 [Découvrir le projet : lesateliersdandree.fr](https://lesateliersdandree.fr/)
 
 > **“Je teste, j’apprends, je progresse chaque jour.”**
