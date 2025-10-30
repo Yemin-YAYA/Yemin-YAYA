@@ -8,7 +8,7 @@
 
 <br>
 
-## 🎯 Ma mission
+### 🎯 Ma mission:
 <br>
 
 Allier technique et créativité pour donner vie à des projets web utiles, clairs et performants.  
@@ -21,10 +21,10 @@ Curieux et motivé, je m’efforce chaque jour d’**apprendre davantage, d’ex
 
 <br>
 
-## 🧰 Compétences Techniques
+### 🧰 Compétences Techniques
 <br>
 
-### 🖥️ Front-End & Frameworks
+## 🖥️ Front-End & Frameworks
 <br>
 
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)
@@ -35,7 +35,7 @@ Curieux et motivé, je m’efforce chaque jour d’**apprendre davantage, d’ex
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 <br><br>
 
-### 🛠️ Back-End & Outils
+## 🛠️ Back-End & Outils
 <br>
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
@@ -48,7 +48,7 @@ Curieux et motivé, je m’efforce chaque jour d’**apprendre davantage, d’ex
 
 <br>
 
-## 🤝 Compétences Transversales
+### 🤝 Compétences Transversales
 <br>
 
 - 🧠 **Analyse** & esprit critique  
@@ -76,6 +76,6 @@ Curieux et motivé, je m’efforce chaque jour d’**apprendre davantage, d’ex
 <br>
 
 🔗 [Découvrir le projet : lesateliersdandree.fr](https://lesateliersdandree.fr/)
-<br><br>
+<br>
 
 > **“Je teste, j’apprends, je progresse chaque jour.”**
